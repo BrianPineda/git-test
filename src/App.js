@@ -16,8 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          {process.env.NODE_ENV}
+          Learn React {process.env.NODE_ENV}
         </a>
       </header>
     </div>
