@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/git-test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/git-test/static/js/main.29bfede0.chunk.js",
-    "main.js.map": "/git-test/static/js/main.29bfede0.chunk.js.map",
+    "main.css": "/git-test/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/git-test/static/js/main.41df7b37.chunk.js",
+    "main.js.map": "/git-test/static/js/main.41df7b37.chunk.js.map",
     "runtime-main.js": "/git-test/static/js/runtime-main.daa10f91.js",
     "runtime-main.js.map": "/git-test/static/js/runtime-main.daa10f91.js.map",
     "static/js/2.ba7fbf64.chunk.js": "/git-test/static/js/2.ba7fbf64.chunk.js",
     "static/js/2.ba7fbf64.chunk.js.map": "/git-test/static/js/2.ba7fbf64.chunk.js.map",
     "index.html": "/git-test/index.html",
-    "precache-manifest.25fe1960754168aec78c4febb60d7749.js": "/git-test/precache-manifest.25fe1960754168aec78c4febb60d7749.js",
+    "precache-manifest.ed9ea3caebc8b630ff308173abc0a174.js": "/git-test/precache-manifest.ed9ea3caebc8b630ff308173abc0a174.js",
     "service-worker.js": "/git-test/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/git-test/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.8ab6f918.chunk.css.map": "/git-test/static/css/main.8ab6f918.chunk.css.map",
     "static/js/2.ba7fbf64.chunk.js.LICENSE.txt": "/git-test/static/js/2.ba7fbf64.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/git-test/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/git-test/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.daa10f91.js",
     "static/js/2.ba7fbf64.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.29bfede0.chunk.js"
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.41df7b37.chunk.js"
   ]
 }
